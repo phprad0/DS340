@@ -1,3 +1,6 @@
+This is our team's first parent paper. 
+Team members: Utkarsh Sinha & Pedro Prado 
+
 We decided to go for a research article titled "A Movie Recommender System: MOVREC using Machine Learning Techniques" for our first parent paper. 
 
 We have uploaded the Jupyter Notebook, the running python file, the datasets (https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?resource=download&select=rating.csv) 
